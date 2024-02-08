@@ -56,7 +56,7 @@
             bindings
                 = <&lc(LEFT)>
                 , <&macro_press &kp LSHFT>
-                , <&macro_tap &lc(RIGHT)>
+                , <&macro_tap &kp LC(RIGHT)>
                 , <&macro_release &kp LSHFT>
                 ;
         };
