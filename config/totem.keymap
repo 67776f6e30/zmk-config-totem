@@ -136,7 +136,7 @@ label= "SYM"                               ;
 
                 &none       &none       &none       &none       &none           &none       &sel_block  &none       &none       &none 
                 &kp LC(A)   &none       &none       &none       &none           &none       &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT  
-    &none       &none       &none       &kp LC(C)   &kp LC(V)   &none           &none       &kp HOME    &kp PG_UP   &kp END     &kp PG_DOWN &none          
+    &none       &none       &none       &kp LC(C)   &kp LC(V)   &none           &none       &kp HOME    &kp PG_UP   &kp END     &kp PG_DN   &none          
                                         &none       &none       &none           &none       &none       &none       
                         >;
                 };
