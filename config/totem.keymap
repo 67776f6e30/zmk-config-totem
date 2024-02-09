@@ -82,8 +82,8 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp Q       &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &kp O       &kp P
-                &kp A       &kp S       &kp D       &mt LSHFT F &kp G           &kp H       &mt LSHFT J &kp K       &kp L       &kp SEMI
+                &kp Q       &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &kp O       &kp SEMI
+                &kp A       &mt LSHFT S &kp D       &kp F       &kp G           &kp H       &kp J       &kp K       &mt LSHFT L &kp P
     &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp LANG1
                                         &mo SYM     &mo NUM     &kp TAB         &kp RET     &kp SPACE   &kp BSPC
                         >;
@@ -136,7 +136,7 @@ label= "SYM"                               ;
 
                 &none       &none       &none       &none       &none           &none       &sel_block  &none       &none       &none 
                 &kp LC(A)   &none       &none       &none       &none           &none       &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT  
-    &none       &none       &none       &kp LC(C)   &kp LC(V)   &none           &none       &none       &none       &none       &none       &none          
+    &none       &none       &none       &kp LC(C)   &kp LC(V)   &none           &none       &kp HOME    &kp PG_UP   &kp END     &kp PG_DOWN &none          
                                         &none       &none       &none           &none       &none       &none       
                         >;
                 };
