@@ -73,9 +73,9 @@ label= "BASE"                              ;
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
                 &kp Q       &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &kp O       &kp SEMI
-                &mt SYM A   &mt LALT S  &mt LCTRL D &mt LSHFT F &kp G           &kp H       &mt RSHFT J &mt RCTRL K &mt RALT L  &mt SYM P
+                &lt SYM A   &mt LALT S  &mt LCTRL D &mt LSHFT F &kp G           &kp H       &mt RSHFT J &mt RCTRL K &mt RALT L  &lt SYM P
     &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp LANG1
-                                        &mo NAV     &mo NUM     &kp TAB         &kp RET   &mt SYM SPACE &kp BSPC
+                                        &mo NAV     &mo NUM     &kp TAB         &kp RET   &lt SYM SPACE &kp BSPC
                         >;
                 };
 
